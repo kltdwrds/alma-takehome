@@ -1,0 +1,30 @@
+# SQLite database files
+*.db
+*.db-journal
+*.sqlite3
+
+# Uploads directory (resume files)
+uploads/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
