@@ -2,6 +2,8 @@
 
 This is a FastAPI application for managing leads, allowing prospects to submit leads publicly and attorneys to view/update them internally. It uses SQLite for storage and includes simulated email notifications.
 
+Available for prompt review at: https://replit.com/@edwardsky1/alma-takehome
+
 ## Prerequisites
 
 - Python 3.6 or later
